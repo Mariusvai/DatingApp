@@ -1,6 +1,4 @@
-.knowas {
-    text-transform: capitalize;
-}
+
 .card:hover img {
     transform: scale(1.2, 1.2);
     transition-duration: 500ms;
